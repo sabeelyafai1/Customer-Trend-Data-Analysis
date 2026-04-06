@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Customer Behavior Data Analyst – End-to-End Analytics Project
+# 👨🏻‍💻 Customer Behavior Data Analysis – End-to-End Analytics Project
 
 ## 📌 Project Overview
 This project demonstrates a **complete, industry-standard end-to-end data analytics workflow**, designed to mirror the real-world responsibilities of a **professional Data Analyst** in a modern business environment.
